@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Exercicio-Media-10Alunos\bin\Debug\netcoreapp3.1\Exercicio-Media-10Alunos.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Exercicio-Media-10Alunos\bin\Debug\netcoreapp3.1\Exercicio-Media-10Alunos.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Exercicio-Media-10Alunos\bin\Debug\netcoreapp3.1\Exercicio-Media-10Alunos.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Exercicio-Media-10Alunos\bin\Debug\netcoreapp3.1\Exercicio-Media-10Alunos.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Exercicio-Media-10Alunos\bin\Debug\netcoreapp3.1\Exercicio-Media-10Alunos.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Exercicio-Media-10Alunos\bin\Debug\netcoreapp3.1\Exercicio-Media-10Alunos.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Exercicio-Media-10Alunos\obj\Debug\netcoreapp3.1\Exercicio-Media-10Alunos.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Exercicio-Media-10Alunos\obj\Debug\netcoreapp3.1\Exercicio-Media-10Alunos.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Exercicio-Media-10Alunos\obj\Debug\netcoreapp3.1\Exercicio-Media-10Alunos.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Exercicio-Media-10Alunos\obj\Debug\netcoreapp3.1\Exercicio-Media-10Alunos.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Exercicio-Media-10Alunos\obj\Debug\netcoreapp3.1\Exercicio-Media-10Alunos.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Exercicio-Media-10Alunos\obj\Debug\netcoreapp3.1\Exercicio-Media-10Alunos.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Exercicio-Media-10Alunos\obj\Debug\netcoreapp3.1\Exercicio-Media-10Alunos.genruntimeconfig.cache
